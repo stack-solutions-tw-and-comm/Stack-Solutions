@@ -17,7 +17,7 @@
 ## At‑a‑glance:
 | Overall status | % complete (this week) | Top risk (one line) |
 |---|---|---|
-|On track / At risk 15%| Implementation of chatbot into website (low risk)| No particular questions|
+|On track / At risk| 15% | Implementation of chatbot into website (low risk) |
 
 ## What we shipped/completed this week:
 • interactive chat bot
