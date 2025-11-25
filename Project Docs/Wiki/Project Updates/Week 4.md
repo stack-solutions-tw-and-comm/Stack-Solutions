@@ -48,6 +48,7 @@ Mitigation – Taking online website coding courses, watching videos, learning a
 
 ## Submission Block to LMS (paste into LMS)
 • Repo (main): https://github.com/stack-solutions-tw-and-comm/Stack-Solutions.git
-• Wiki Home: https://github.com/stack-solutions-tw-and-comm/StackSolutions/blob/27ec75d2b09f60e637ace908b6cf9276579cca68/Project%20Docs/Wiki/H
-ome
+
+• Wiki Home: https://github.com/stack-solutions-tw-and-comm/StackSolutions/blob/27ec75d2b09f60e637ace908b6cf9276579cca68/Project%20Docs/Wiki/Home
+
 • This document (uploaded)
