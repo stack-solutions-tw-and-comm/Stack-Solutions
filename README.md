@@ -10,9 +10,9 @@ This section provides links to all project-related documentation, including wiki
 
 ### Wiki
 
-* [Wiki Home](Project%20Docs/Wiki/Home)
-* [Design (Wiki)](Project%20Docs/Wiki/Design)
-* [Proposal (Wiki)](Project%20Docs/Wiki/Proposal)
+* [Wiki Home](../../wiki)
+* [Design (Wiki)](../../wiki/Design)
+* [Proposal (Wiki)](../../wiki/Proposal)
 
 ### In-Repo Drafts (Reviewed via PRs)
 
